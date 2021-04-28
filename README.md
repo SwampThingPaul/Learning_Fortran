@@ -1,6 +1,7 @@
-# Learning_Fortran
+# Learning Fortran
  Repository for my adventure learning Fortran
 
+***
 
 ### Starters
 I decided to use VS Code ([Visual Code Studio](hhttps://code.visualstudio.com/)) as my program of choice to run/complie fortran code.
@@ -10,7 +11,7 @@ I decided to use VS Code ([Visual Code Studio](hhttps://code.visualstudio.com/))
 
 **Still working on configuring to run fortan...faceplam** 
 
-Oncw yow have things set up You Tube has been a fantastic resource. 
+Once you have things set up You Tube has been a fantastic resource. 
 * Setting up VS Code for Fortran series is recommend but some additional reading/hunting is needed to get up to speed with the presenter. [Link](https://youtu.be/MZZLhodCzRY)
     * [Github repo](https://github.com/llamm-de/VSCode_Fortran_Tutorial) for these videos.
 
