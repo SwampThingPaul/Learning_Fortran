@@ -4,10 +4,16 @@
 ***
 
 ### Starters
+
+*Install gfortran*
+So far, the best guidance I found on how to install a fortran complier for a windows based system is from [Yutaka Masuda](https://masuday.github.io/fortran_tutorial/install_gfortran_windows.html). Still trying to figure out if things worked correctly. 
+
+
 I decided to use VS Code ([Visual Code Studio](hhttps://code.visualstudio.com/)) as my program of choice to run/complie fortran code.
 * In VS Code I am using the [Modern Fortran](https://marketplace.visualstudio.com/items?itemName=krvajalm.linter-gfortran) plug-in.
-* You still need a seperate complier to run any Fortran code, so I am experimenting with gfortran, here are some [sources](https://fortran-lang.org/learn/os_setup/install_gfortran#windows) for the complier. 
-* Something that might help with installing and configuring VS Code on a windows machine. [Link](https://code.visualstudio.com/docs/cpp/config-mingw)
+* You still need a seperate complier to run any Fortran code, so I am experimenting with gfortran, see above. 
+
+<!--* Something that might help with installing and configuring VS Code on a windows machine. [Link](https://code.visualstudio.com/docs/cpp/config-mingw)-->
 
 **Still working on configuring to run fortan...faceplam** 
 
